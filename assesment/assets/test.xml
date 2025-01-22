@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45">
+<file name="C:\Users\lenovo\rahuljangir885-ME_QA_XGOOGLE_FORM\src\test\java\demo\TestCases.java">
+<error line="14" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="34" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+<error line="35" severity="error" message="USED_COMMENT" source="com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck"/>
+</file>
+<file name="C:\Users\lenovo\rahuljangir885-ME_QA_XGOOGLE_FORM\src\test\java\demo\wrappers\Wrappers.java">
+</file>
+</checkstyle>
